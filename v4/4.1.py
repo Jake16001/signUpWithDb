@@ -1,3 +1,4 @@
+# fixes crucial error in v4.1
 import os
 import sqlite3
 import getpass
