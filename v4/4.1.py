@@ -1,4 +1,4 @@
-# fixes crucial error in v4.1
+# fixes crucial error in v4.0
 import os
 import sqlite3
 import getpass
